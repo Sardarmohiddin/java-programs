@@ -1,0 +1,55 @@
+1.Book collection
+2.book arrangement
+3.Tracking due dates
+4.report
+
+
+1.Book collection
+
+1.start
+2.declare the variables books,newspaper,magazines
+3.read the variables books,newspaper,magazines
+4.if the required variables are available in the market,go to step5 otherwise go to step 6
+5.print required books are collected and go to step 7
+6.print required books are not found
+7.stop
+
+2.Book arrangement
+
+1.start
+2.declare the section a,section b,section c,book,subject
+3.read the values into section a,section b,section c
+4.arrange the books in section wise based on the book subject
+5.if book subject related to software languages
+6.print the book is in section a
+7.else if book subject related to business startup
+8.print the book is in section b
+9.else (the book related to aptitude,generalawareness)
+10.print the book is in section c
+11.stop
+
+
+3.tracking due dates
+
+1.start
+2.declare the variables borrowed book time,returned book time,due date ,student
+3.read the values into borrowed book time,returned book time,due date
+4.if the returned book time is less than or equal to due date 
+5.print no fine is placed for a student
+6.else if the returned book time is greater than due date
+7.print fine is to placed for a student
+8.otherwise
+9.make a overview about the student he didnot submitted the book 
+10.stop
+
+
+4.report
+
+1.start
+2.declare the variables books available,borrowed books,total books
+3.read the values of books available,borrowed books,total books
+4.if total books=books available+borrowed books
+5.print report is tallied and successful
+6.else
+7.print report is not tallied and unsuccessful
+8.stop

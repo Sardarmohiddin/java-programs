@@ -1,0 +1,31 @@
+
+//Algorithm for calculating gross salary
+
+step1:start
+step2:declare basicsalary, HRA,DA,gross salary 
+step3:read values into basic salary
+step4:if basic salary<=10000 
+step5:calculate HRA =1/5*basic salary, DA = 4/5* basic salary
+step6:print HRA,DA, otherwise goto step7
+step7:else if basic salary<=20000 
+step8:calculate HRA =1/4*basic salary, DA = 9/10* basic salary,
+step9:print HRA,DA otherwise goto step10
+step10:else  basic salary>20000 
+step11:calculate HRA =3/10*basic salary, DA = 19/20* basic salary
+step12:print  HRA,DA 
+step13:gross salary=basic salary+HRA+DA
+step14:print gross salary
+step15:stop
+
+//Algorithm for calculating BMI
+
+step1:start
+step2:declare weight,height,BMI
+step3:read values into weight  in poundsand,height  in inches 
+step4:BMI=(weight/height*height)*703
+step5:print BMI
+step6:if BMI<18 print person is under weight,otherwise goto step7 
+step7:elseif BMI>=18 &&BMI<25 print person is normal weight,otherwise goto step8
+step8:else BMI>25 print person is over weight
+step:stop
+

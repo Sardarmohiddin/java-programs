@@ -1,0 +1,62 @@
+// algorithm for ATM operations
+
+1)For withdraw
+
+step1-start
+step2-insert the ATM card into the machine.It displays select language ie., either english or telugu 
+step3-It asks for type of account i.e.,savings or business 
+step4-we have to choose savings then we have to enter the 4 digit pin
+step5-It displays some operations for withdraw of an amount we have to choose withdraw option
+step6-It asks how much amount then we have to enter the required amount
+step7-if there is no sufficent amount in our account it will displays the message like not sufficient amount
+step8-otherwise it gives the amount
+step9-then it displays please remove your card
+step10-stop
+
+2)For deposit
+
+step1-start
+step2-insert the ATM card into the machine.It displays select language ie., either english or telugu
+step3-It asks for type of account i.e.,savings or business 
+step4-we have to choose savings then we have to enter the 4 digit pin
+step5-It displays some operations for depositing amount we have to select deposit option
+step6-then we place amount into machine
+step7-it will checks for denominations(nothing but a notes denomination)
+step8-then we click on complete option
+step9-it will gives the receipt
+step10-then it displays please remove your card
+step11-stop
+
+
+3)for balance enquiry
+step1-start
+step2-insert the ATM card into the machine.It displays select language ie., either english or telugu
+step3-It asks for type of account i.e.,savings or business 
+step4-we have to choose savings then we have to enter the 4 digit pin
+step5-It displays some operations for checking balance we have to choose balance enquiry option
+step6-then it displays the current amount in the account
+step7- stop
+
+
+4)for pin changing
+step1-start
+step2-insert the ATM card into the machine.It displays select language ie., either english or telugu
+step3-It asks for type of account i.e.,savings or business 
+step4-we have to choose savings then we have to enter the 4 digit pin
+step5-It displays some operations if we want to change our pin then select change pin option
+step6-then we have to enter existing pin and new pin
+step7-then it sends an OTP to our mobile number then we have to enter that otp
+step8-here the pin will be updated
+step9-if we do not know our pin then select forgot pin option
+step10-here the step 6 and step 7 are same
+step11-stop
+
+
+5)for mini statement
+step1-start
+step2-insert the ATM card into the machine.It displays select language ie., either english or telugu
+step3-It asks for type of account i.e.,savings or business 
+step4-we have to choose savings then we have to enter the 4 digit pin
+step5-It displays some operations if we need mini statement we have to select ministatement option
+step6-then the reciept will be given for last few days transactions
+step7-stop

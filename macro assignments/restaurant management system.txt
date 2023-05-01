@@ -1,0 +1,61 @@
+ALGORITHM FOR RESTAURRANT MANAGEMENT SYSTEM :
+
+
+CUSTOMER MODULE:
+
+step 1: start
+step 2: select the restaurrant which you want to go and enter into the restaurrant 
+step 3: take the menu card
+step 4: select the food items which you want to order from the menu card 
+step 5: give the order to waiter
+step 6: waiter will serve the food
+step 7: after completion of eating goto step 8
+step 8: make the payment through online or cash
+step 9: stop
+
+
+STAFF MODULE:
+
+
+step 1: start
+step 2: wishing the customers and  wait for the customers to place the 				orders 
+step 3: once the order is completed they noted 
+stpe 4: place the orders to the kitchen room
+step 5: once the food is ready 
+step 6: serve the food to the customers
+step 7: provide the payment bill  to the customers 
+step 8: make the payment through the customer
+step 9: stop
+
+
+MENU MODULE:
+
+
+step 1: start
+step 2: it contains the  list of food items goto step 3
+step 3: VEG ITEMS , NON-VEG ITEMS,PIZZA,DRINKS ,ICE CREAMS ,STARTERS,FAST FOODS etc
+step 4: stop
+
+
+MANAGER MODULE:
+
+
+step 1: start
+step 2: welcoming  the customers and greet them
+step 3: allocate the table to customers
+step 4: sending the staff members to the customers to take the order 
+step 5: they manage the whole restaurrant like staff members ,kitchen staff,billing sections
+step 6: stop
+
+
+
+PAYMENT MODULE:
+
+
+step 1: start
+step 2: choose the payment mode  
+step 3: if customer choose the online mode goto step 4
+step 4: provide QR codes (or) phone pay (or) G-pay (or)paytm etc
+step 5: otherwise they can pay through the cash
+step 6: stop
+
